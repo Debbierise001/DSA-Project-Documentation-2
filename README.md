@@ -8,11 +8,12 @@ This project analyzes employee data to gain insights into gender distribution, p
 
 ### Tools Used
 Power BI
-* Data Collection
-* Data Cleaning
+- Data Collection
+- Data Cleaning
   - Power Query for Extracting, Transforming and Loading Data (ETL)
   - DAX to create custom columns and measures
-  - Roport View for data visualization and analysis
+- Visualization 
+  - Roport View for visualization and analysis
 
 
 ### Data Cleaning & Preparation
@@ -24,25 +25,34 @@ Power BI
 
 ### Data Presentation & Visualizations
 1. Gender Distribution: Helps HR monitor inclusion and diversity
-  - Clustered bar chart: Gender by Department
-  - Pie chart: Overall gender breakdown
-  - Card: 
+   - Clustered bar chart: Gender by Department
+   - Pie chart: Overall gender breakdown
+   - Card: Gender Count
+   - Card: Gender Percentage
+   - Slicer: Location
+    
 2. Performance Ratings by Gender: Evaluates fairness in scores
-  - Clustered column chart: Count of ratings by gender
-  - Card: Average rating by gender
-  -
+   - Clustered column chart: Count of ratings by gender
+   - Card: Average rating by gender
+   - Slicer: Gender
+    
 3. Salary Structure & Pay Gap: Highlights pay disparities across teams
-  - Scatter chart: Salary vs. Gender
-  - Bar chart: Average salary by department
-  - 
+   - Scatter chart: Salary vs. Gender
+   - Cluster Bar chart: Average salary by department
+   - Card: Average Salary by Gender
+   - Card: Salary Count by Department
+   - Slicer: Location
 
 4. Minimum Salary Threshold Analysis: Identifies underpaid regions or roles
-  - Column Chart: Salary grouped in ₦10,000 bands
-  - Bar Chart: Count of employees earning below ₦90,000
+   - Cluster Column Chart: Salary grouped in ₦10,000 bands
+   - Cluster Bar Chart: Count of employees earning below ₦90,000
 
 5. Bonus Calculation: Automates bonus logic and performance rewards 
-  - Bar chart: Total bonus payout per region
-  - Table: Employee-level bonus breakdown
+   - Cluster Bar chart: Total bonus payout per region
+   - Table: Employee-level bonus breakdown
+   - Card: Total Bonus Paid Out
+   - Card: Total Amount to be Paid out
+   - Slicers: Rating, Gender and Location
  
 ### Key DAX Measures
 - Gender Count = `COUNT('Employee'[Gender])`
