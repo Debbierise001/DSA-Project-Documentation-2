@@ -7,7 +7,7 @@ Palmora Group HR Analysis
 This project analyzes employee data to gain insights into gender distribution, performance ratings, salary structures, bonus allocation, and regional differences. The goal is to uncover trends that can support better HR decision-making
 
 ### Tools Used
-Power BI
+Power BI [Download Here]()
 - Data Collection
 - Data Cleaning
   - Power Query for Extracting, Transforming and Loading Data (ETL)
