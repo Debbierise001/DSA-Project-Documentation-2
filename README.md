@@ -17,6 +17,7 @@ Power BI [Download Here]()
   - DAX to create custom columns and measures
 - Visualization 
   - Roport View for visualization and analysis
+  - Model View to connect and disconnect relationships between the tables
 
 
 ### Data Cleaning & Preparation
@@ -47,7 +48,7 @@ Power BI [Download Here]()
    - Slicer: Location
 
 4. Minimum Salary Threshold Analysis: Identifies underpaid regions or roles
-   - Cluster Column Chart: Salary grouped in ₦10,000 bands
+   - Cluster Column Chart: Salary grouped in $10,000 bands
    - Cluster Bar Chart: Count of employees earning below ₦90,000
 
 5. Bonus Calculation: Automates bonus logic and performance rewards 
