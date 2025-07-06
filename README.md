@@ -21,10 +21,10 @@ Power BI [Download Here]()
 
 
 ### Data Cleaning & Preparation
-- Removed rows with missing salary or department.
-- Replaced missing or private gender values with "Unspecified".
-- Creating Custom columns to sort Gender and Ratings.
-- Created salary band using conditional column logic
+- Removed rows with missing salary and department.
+- Replaced null and empty gender rows with "Unspecified".
+- Created conditional columns to sort Gender and Ratings as values.
+- Created Salary Band using conditional column logic
 - Ensured consistent data types for analysis.
 
 ### Data Presentation & Visualizations
@@ -36,7 +36,7 @@ Power BI [Download Here]()
    - Slicer: Location
     
 2. Performance Ratings by Gender: Evaluates fairness in scores
-   - Clustered column chart: Count of ratings by gender
+   - Clustered column chart(***Histogram***): Count of ratings by gender
    - Card: Average rating by gender
    - Slicer: Gender
     
