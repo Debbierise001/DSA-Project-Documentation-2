@@ -36,11 +36,11 @@ Power BI [Download Here]()
    - Slicer: Location
     
 2. Performance Ratings by Gender: Evaluates fairness in scores
-   - Clustered column chart(***Histogram***): Count of ratings by gender
+   - Clustered column chart: Count of ratings by gender
    - Card: Average rating by gender
    - Slicer: Gender
     
-3. Salary Structure & Pay Gap: Highlights pay disparities across teams
+3. Salary Structure & Pay Gap: Highlights pay gaps across teams
    - Scatter chart: Salary vs. Gender
    - Cluster Bar chart: Average salary by department
    - Card: Average Salary by Gender
@@ -49,7 +49,7 @@ Power BI [Download Here]()
 
 4. Minimum Salary Threshold Analysis: Identifies underpaid regions or roles
    - Cluster Column Chart: Salary grouped in $10,000 bands
-   - Cluster Bar Chart: Count of employees earning below ₦90,000
+   - Cluster Bar Chart: Count of employees earning below $90,000
 
 5. Bonus Calculation: Automates bonus logic and performance rewards 
    - Cluster Bar chart: Total bonus payout per region
@@ -70,14 +70,13 @@ Power BI [Download Here]()
 - Total Payment = `MAX('Employee'[Salary]) + [Bonus Amount]`
 
 ### Recommendations
-- Improve gender balance across departments
-- Review salary gaps, especially by gender
-- Apply bonuses fairly to high performers
+- Improve gender balance across departments.
+- Review salary gaps, especially by gender.
+- Apply bonuses fairly to high performers.
 - Minimum pay in low-income regions should be raised.
-- Track ratings to guide promotion decisions
+- Track ratings to guide promotion decisions.
 
 ### Limitations
-- Some ratings were missing or unclear.
 - Some employee ratings were missing or labeled "Not Rated".
 
 ### References
