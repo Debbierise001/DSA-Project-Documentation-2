@@ -1,7 +1,7 @@
 # DSA-Project-Documentation-2
 Palmora Group HR Analysis
 
-## Project Title: 
+## Project Title: Palmora Group HR Analysis
 
 ### Project Overview
 This project analyzes employee data to gain insights into gender distribution, performance ratings, salary structures, bonus allocation, and regional differences. The goal is to uncover trends that can support better HR decision-making
@@ -80,4 +80,6 @@ Power BI
 - Sample dataset from training program
 - Analysis done using Power BI
 
-  
+### Project Screenshots
+Below are screenshots showing visuals created in Power BI Report View:
+
