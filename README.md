@@ -85,7 +85,7 @@ Below are screenshots showing visuals created in Power BI Report View:
 
 ![Alt text](https://github.com/Debbierise001/DSA-Project-Documentation-2/blob/main/PowerBI%201_023923.PNG)
 
-![Alt text](https://github.com/Debbierise001/DSA-Project-Documentation-2/blob/main/PowerBI%201_023923.PNG)
+![Alt text](https://github.com/Debbierise001/DSA-Project-Documentation-2/blob/main/PowerBI%202_023925.PNG)
 
 ![Alt text](https://github.com/Debbierise001/DSA-Project-Documentation-2/blob/main/PowerBI%203_023927.PNG)
 
