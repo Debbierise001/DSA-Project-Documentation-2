@@ -55,4 +55,19 @@ Power BI
 - Bonus Amount = `IF(Max('Employee'[Rating]) > 3, MAX('Employee'[Salary]) * 0.1, 0)`
 - Total Payment = `MAX('Employee'[Salary]) + [Bonus Amount]`
 
+### Recommendations
+- Improve gender balance across departments
+- Review salary gaps, especially by gender
+- Apply bonuses fairly to high performers
+- Minimum pay in low-income regions should be raised.
+- Track ratings to guide promotion decisions
+
+### Limitations
+- Some ratings were missing or unclear.
+- Some employee ratings were missing or labeled "Not Rated".
+
+### References
+- Sample dataset from training program
+- Analysis done using Power BI
+
   
