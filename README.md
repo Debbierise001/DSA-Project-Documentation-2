@@ -1,19 +1,19 @@
 # DSA-Project-Documentation-2
 Palmora Group HR Analysis
 
-## Project Title: Palmora Group HR Analysis for Gender Distribution, Salary and Performance Insights
+## Project Title: Palmora Group HR Analysis for Gender Distribution, Salary, and Performance Insights
 
 ### Project Overview
 This project analyzes employee data to gain insights into gender distribution, performance ratings, salary structures, bonus allocation, and regional differences. The goal is to uncover trends that can support better HR decision-making.
 
 ### Data Source 
-The datasets used for this project was provided by The Incubator Hub as an Excel files titled "Palmoria Group emp-data.csv" and "Palmoria Group Bonus Rules.xlsv", consisting of Name, Gender, Department, Region, Salary, and Rating.
+The datasets used for this project was provided by The Incubator Hub as an Excel files titled "Palmoria Group emp-data.csv" and "Palmoria Group Bonus Rules.xlsv", which consist of Name, Gender, Department, Region, Salary, and Rating.
 
 ### Tools Used
 Power BI [Download Here]()
 - Data Collection
 - Data Cleaning
-  - Power Query for Extracting, Transforming and Loading Data (ETL)
+  - Power Query for Extracting, Transforming, and Loading Data (ETL)
   - DAX to create custom columns and measures
 - Visualization 
   - Report View for visualization and analysis
@@ -56,7 +56,7 @@ Power BI [Download Here]()
    - Table: Employee-level bonus breakdown
    - Card: Total Bonus Paid Out
    - Card: Total Amount to be Paid out
-   - Slicers: Rating, Gender and Location
+   - Slicers: Rating, Gender, and Location
  
 ### Key DAX Measures
 - Gender Count = `COUNT('Employee'[Gender])`
@@ -80,7 +80,7 @@ Power BI [Download Here]()
 - Some employee ratings were missing or labeled "Not Rated".
 
 ### References
-- Sample dataset from training program
+- Sample dataset from the training program
 - Analysis done using Power BI
 
 ### Project Screenshots
