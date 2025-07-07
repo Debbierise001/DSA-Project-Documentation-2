@@ -10,7 +10,7 @@ This project analyzes employee data to gain insights into gender distribution, p
 The datasets used for this project was provided by The Incubator Hub as Excel files titled "Palmoria Group emp-data.csv" and "Palmoria Group Bonus Rules.xlsx", which consist of Name, Gender, Department, Region, Salary, and Rating.
 
 ### Tools Used
-Power BI [Download Here](https://github.com/Debbierise001/DSA-Project-Documentation-2/blob/main/Palmora%20Group%20HR%20Analysis.pbix)
+Power BI [Download Here](https://github.com/Debbierise001/DSA-Project-Documentation-2/raw/main/Palmora%20Group%20HR%20Analysis.pbix)
 - Data Collection
 - Data Cleaning
   - Power Query for Extracting, Transforming, and Loading Data (ETL)
@@ -86,10 +86,10 @@ Power BI [Download Here](https://github.com/Debbierise001/DSA-Project-Documentat
 ### Project Screenshots
 Below are screenshots showing visuals created in Power BI Report View:
 
-![PowerBI 1](https://github.com/Debbierise001/DSA-Project-Documentation-2/blob/main/PowerBI%201.PNG)
+![PowerBI 1](https://github.com/Debbierise001/DSA-Project-Documentation-2/raw/main/PowerBI%201.PNG)
 
-![PowerBI 2](https://github.com/Debbierise001/DSA-Project-Documentation-2/blob/main/PowerBI%202.PNG)
+![PowerBI 2](https://github.com/Debbierise001/DSA-Project-Documentation-2/raw/main/PowerBI%202.PNG)
 
-![PowerBI 3](https://github.com/Debbierise001/DSA-Project-Documentation-2/blob/main/PowerBI%203.PNG)
+![PowerBI 3](https://github.com/Debbierise001/DSA-Project-Documentation-2/raw/main/PowerBI%203.PNG)
 
-![PowerBI 4](https://github.com/Debbierise001/DSA-Project-Documentation-2/blob/main/PowerBI%204.PNG)
+![PowerBI 4](https://github.com/Debbierise001/DSA-Project-Documentation-2/raw/main/PowerBI%204.PNG)
