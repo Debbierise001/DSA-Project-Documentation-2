@@ -90,6 +90,6 @@ Below are screenshots showing visuals created in Power BI Report View:
 
 ![PowerBI 2](https://github.com/Debbierise001/DSA-Project-Documentation-2/blob/main/PowerBI%202.PNG)
 
-![PowerBI 3](https://github.com/Debbierise001/DSA-Project-Documentation-2/blob/main/PowerBI%203.PNG))
+![PowerBI 3](https://github.com/Debbierise001/DSA-Project-Documentation-2/blob/main/PowerBI%203.PNG)
 
 ![PowerBI 4](https://github.com/Debbierise001/DSA-Project-Documentation-2/blob/main/PowerBI%204.PNG)
