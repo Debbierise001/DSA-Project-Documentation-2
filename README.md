@@ -86,10 +86,10 @@ Power BI [Download Here](https://github.com/Debbierise001/DSA-Project-Documentat
 ### Project Screenshots
 Below are screenshots showing visuals created in Power BI Report View:
 
-![Alt text](https://github.com/Debbierise001/DSA-Project-Documentation-2/blob/main/PowerBI%201_023923.PNG)
+![PowerBI 1](https://github.com/Debbierise001/DSA-Project-Documentation-2/blob/main/PowerBI%201.PNG)
 
-![Alt text](https://github.com/Debbierise001/DSA-Project-Documentation-2/blob/main/PowerBI%202_023925.PNG)
+![PowerBI 2](https://github.com/Debbierise001/DSA-Project-Documentation-2/blob/main/PowerBI%202.PNG)
 
-![Alt text](https://github.com/Debbierise001/DSA-Project-Documentation-2/blob/main/PowerBI%203.PNG))
+![PowerBI 3](https://github.com/Debbierise001/DSA-Project-Documentation-2/blob/main/PowerBI%203.PNG))
 
-![Alt text](https://github.com/Debbierise001/DSA-Project-Documentation-2/blob/main/PowerBI%204_023928.PNG)
+![PowerBI 4](https://github.com/Debbierise001/DSA-Project-Documentation-2/blob/main/PowerBI%204.PNG)
