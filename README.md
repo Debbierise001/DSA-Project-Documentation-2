@@ -10,7 +10,7 @@ This project analyzes employee data to gain insights into gender distribution, p
 The datasets used for this project was provided by The Incubator Hub as an Excel files titled "Palmoria Group emp-data.csv" and "Palmoria Group Bonus Rules.xlsv", which consist of Name, Gender, Department, Region, Salary, and Rating.
 
 ### Tools Used
-Power BI [Download Here]()
+Power BI [Download Here](https://github.com/Debbierise001/DSA-Project-Documentation-2/blob/main/Palmora%20Group%20HR%20Analysis.pbix)
 - Data Collection
 - Data Cleaning
   - Power Query for Extracting, Transforming, and Loading Data (ETL)
