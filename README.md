@@ -7,7 +7,7 @@ Palmora Group HR Analysis
 This project analyzes employee data to gain insights into gender distribution, performance ratings, salary structures, bonus allocation, and regional differences. The goal is to uncover trends that can support better HR decision-making.
 
 ### Data Source 
-The datasets used for this project was provided by The Incubator Hub as an Excel files titled "Palmoria Group emp-data.csv" and "Palmoria Group Bonus Rules.xlsv", which consist of Name, Gender, Department, Region, Salary, and Rating.
+The datasets used for this project was provided by The Incubator Hub as Excel files titled "Palmoria Group emp-data.csv" and "Palmoria Group Bonus Rules.xlsx", which consist of Name, Gender, Department, Region, Salary, and Rating.
 
 ### Tools Used
 Power BI [Download Here](https://github.com/Debbierise001/DSA-Project-Documentation-2/blob/main/Palmora%20Group%20HR%20Analysis.pbix)
